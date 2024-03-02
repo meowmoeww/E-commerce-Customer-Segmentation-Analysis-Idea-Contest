@@ -7,6 +7,9 @@
 |![](https://github.com/meowmoeww.png)|![](https://github.com/Sohi2111853.png)|![](https://github.com/Sohi2111853.png)|![]
 
 - - - 
+### 데이콘 출품 링크 :
+https://dacon.io/competitions/official/236222/codeshare/9806
+- - - 
 ### 분석 주제
 ![image](https://github.com/meowmoeww/Hackathon-of-ideas-for-solving-future-social-problems-using-big-data/assets/89447043/7c0ab657-bf2a-41d3-a206-bd1f33385664)
 - - - 
@@ -123,5 +126,3 @@ Product_0951와 Product_0944의 묶음 상품
 
 5.최종 솔루션 : Bronze 고객을 위한 최적의 솔루션은 이탈 방지 전략과 주이용카테고리 확립 전략을 종합적으로 활용하는 것이다. Bronze고객은 특히나 구매이력이 한번인 고객이 많다. 재구매주기인 67일을 기준으로 잡고 효과적인 마케팅을 위해 가장 많이 방문하는 화요일, 온라인을 통한 리타켓팅 광고를 통해 고객의 관심을 유도해내야 한다. 할인에 민감한 등급이기에 Bronze 등급 휴면 고객에 대해서는 높은 할인률 쿠폰을 제공하는 것이 좋을 것이다.
 - - - 
-### 데이콘 출품 링크 :
-https://dacon.io/competitions/official/236222/codeshare/9806
