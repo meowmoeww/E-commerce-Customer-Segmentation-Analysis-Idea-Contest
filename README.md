@@ -10,7 +10,7 @@
 ### 데이콘 출품 링크 :
 https://dacon.io/competitions/official/236222/codeshare/9806
 - - - 
-### 분석 주제
+### :musical_note: 분석 주제
 ![image](https://github.com/meowmoeww/Hackathon-of-ideas-for-solving-future-social-problems-using-big-data/assets/89447043/7c0ab657-bf2a-41d3-a206-bd1f33385664)
 - - - 
 
