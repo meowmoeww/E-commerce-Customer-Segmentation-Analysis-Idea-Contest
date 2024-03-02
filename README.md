@@ -1,7 +1,7 @@
 # E-commerce-Customer-Segmentation-Analysis-Idea-Contest
 
 ### 🌍 Team Member 
-|Nakyeong Koh<br/>([@meowmoeww](https://github.com/meowmoeww))|Yujin Son <br/>([@Beyujinllike](https://github.com/Beyujinllike))|이다인 <br/>|
+|Nakyeong Koh<br/>([@meowmoeww](https://github.com/meowmoeww))|Yujin Son <br/>([@Beyujinllike](https://github.com/Beyujinllike))|이다인 <br/>([@daainn](https://github.com/daainn))|
 |:----------:|:----------:|:----------:|
 |Developer<br/>Project Manager|Developer<br/>Project Manager|Developer<br/>Project Manager|
 |![](https://github.com/meowmoeww.png)|![](https://github.com/Sohi2111853.png)|![](https://github.com/Sohi2111853.png)|![]
